@@ -27,8 +27,13 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+Desktop Screen
+![](./screenshot/desktop-screen.png)
+Active Desktop Screen
+![](./screenshot/active-desktop-screen.png)
+Mobile Screen
+![](./screenshot/mobile-screen.png)
 
-![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
