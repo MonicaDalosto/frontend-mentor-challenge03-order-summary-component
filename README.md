@@ -22,14 +22,14 @@ The challenge: [Order summary card challenge on Frontend Mentor](https://www.fro
 Users should be able to:
 
 - See hover states for interactive elements
-- The responsiveness on mobile screens;
+- The responsiveness on mobile screens
 
 ### Screenshot
-Desktop Screen
+- Desktop Screen
 ![](./screenshot/desktop-screen.png)
-Active Desktop Screen
+- Active Desktop Screen (Buttons: 'Change', 'Proceed to Payment', and 'Cancel Order')
 ![](./screenshot/active-desktop-screen.png)
-Mobile Screen
+- Mobile Screen
 ![](./screenshot/mobile-screen.png)
 
 ### Links
@@ -55,12 +55,12 @@ Mobile Screen
 
 ### What I learned
 
-I've practice how to create and use the variables and the flexbox tools;
+I've practiced how to create and use the variables in CSS and the flexbox tools;
 
 ### Continued development
 
-- Learn how to code Utility Firts CSS, because I tried on this project, but didn't work so well;
 - Practice more the flexbox tools;
+- Learn how to code Utility Firts CSS, because I tried on this project, but didn't work so well;
 
 ## Author
 
