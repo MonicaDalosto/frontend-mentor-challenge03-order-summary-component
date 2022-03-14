@@ -30,7 +30,7 @@
   display: flex;
   flex-direction: column;
   text-align: center;
-  height: 100vh;
+  height: 120vh;
 }
 
 .main-container {
@@ -137,6 +137,14 @@ a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+/* Suggestion of Renzo Alvarez Arevalo (@ralvarezrenzo): Footer Fixed */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .attribution {
